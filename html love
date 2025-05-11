@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>I Love You</title>
+    <style>
+        body {
+            background-color: #fff0f5;
+            text-align: center;
+            padding-top: 100px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        h1 {
+            color: #cc0066;
+            font-size: 28px;
+        }
+        p {
+            font-size: 20px;
+            color: #99004d;
+        }
+    </style>
+</head>
+<body>
+    <h1>I love you jan pakhi 😘</h1>
+    <p>Ami tomak onek bhalobasi</p>
+    <p>Tumi amake chere jaio na kokhono</p>
+</body>
+</html>
